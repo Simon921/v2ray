@@ -14,12 +14,12 @@
 
 
 |  **机场类型**  |  **测速**  |  **亮点**  |  **专属折扣优惠码**    |  **官网链接**  |
-|-|-|-|-|-|
-|  v2ray机场/SSR机场  |  暂无  |  ⭐️免费试用   签到送流量   IPLC专线   ⭐️定制客户端   免设置   一键蕃蔷   ⭐️TG直连代理   稳定网飞渠道  |  ⭐️7折优惠码   【mitao】   有效期-2021.3.10  |  [点击注册](https://www.butnono.com/go/ssr-iplc)  |
-|  v2ray机场  |  暂无  |  ⭐️有试用   ⭐️有游戏加速专线   ⭐️免设置   定制客户端   一键蕃蔷  |  ⭐️轻量套餐   优惠码【peace】   ⭐️豪华、畅爽、   无限套餐   优惠码【joy】   ⭐️续费可用   有效期-2021.2.28  |  [点击注册](https://www.butnono.com/go/v2ray-game2)  |
-|  v2ray机场/ssr机场  |  暂无  |  ⭐️有游戏加速专用节点   ⭐️免设置   定制客户端   一键蕃蔷  |  ⭐️所有套餐   8折优惠码   【newyear】   有效期-2021.2.19  |  [点击注册](https://www.butnono.com/go/v2game)  |
-|  v2ray机场/ssr机场  |  [大图](https://i.loli.net/2021/01/22/br8VCd6KDNOBi1a.png)  |  ⭐️免费节点试用   签到送流量   ⭐️IPLC/BGP   广港、广美节点  |  ⭐️全场7折优惠码   【rocker-70】    |  [点击注册](https://www.butnono.com/go/v2iplc)  |
-|  SSR机场/v2ray机场  |  暂无  |  ⭐️免费节点试用   ⭐️免设置   定制客户端   一键蕃蔷   港台中日美专线  |  ⭐️7折优惠码   【gsou2021】   有效期-2021.2.19  |  [点击注册](https://www.butnono.com/go/ssr-sp)  |
+|:-:|:-:|:-:|:-:|:-:|
+|  v2ray机场/SSR机场  |  暂无  | ⭐️免费试用<br>签到送流量<br>IPLC专线<br>⭐️定制客户端<br>免设置<br>一键蕃蔷<br>⭐️TG直连代理<br>稳定网飞渠道  | ⭐️7折优惠码<br>【mitao】<br>有效期-2021.3.10  |  [点击注册](https://www.butnono.com/go/ssr-iplc)  |
+|  v2ray机场  |  暂无  | ⭐️有试用<br>⭐️有游戏加速专线<br>⭐️免设置<br>定制客户端<br>一键蕃蔷  | ⭐️轻量套餐<br>优惠码【peace】<br>⭐️豪华、畅爽、无限套餐<br>优惠码【joy】<br>⭐️续费可用<br>有效期-2021.2.28  |  [点击注册](https://www.butnono.com/go/v2ray-game2)  |
+|  v2ray机场/ssr机场  |  暂无  | ⭐️有游戏加速专用节点<br>⭐️免设置<br>定制客户端<br>一键蕃蔷  | ⭐️所有套餐<br>8折优惠码<br>【newyear】<br>有效期-2021.2.19  |  [点击注册](https://www.butnono.com/go/v2game)  |
+|  v2ray机场/ssr机场  |  [大图](https://i.loli.net/2021/01/22/br8VCd6KDNOBi1a.png)  | ⭐️免费节点试用<br>签到送流量<br>⭐️IPLC/BGP<br>广港、广美节点  | ⭐️全场7折优惠码<br>【rocker-70】    |  [点击注册](https://www.butnono.com/go/v2iplc)  |
+|  SSR机场/v2ray机场  |  暂无  | ⭐️免费节点试用<br>⭐️免设置<br>定制客户端<br>一键蕃蔷<br>港台中日美专线  | ⭐️7折优惠码<br>【gsou2021】<br>有效期-2021.2.19  |  [点击注册](https://www.butnono.com/go/ssr-sp)  |
 
 ## SSR机场、V2ray节点可蕃蔷上哪些网站？
 
@@ -71,15 +71,13 @@ SSR节点/V2ray机场具体在各种客户端如何使用，注册之后的后�
 
 最后，再分享一个**及时更新免费Telegram直连内置代理的tg群**，可保证你电报一直在线：
 
-* * *
-
 **福利时间：Telegram直连代理免费送**
 
 尽管不过了了为大家整理的一些[科学上网资源](https://www.butnono.com/freevpn20200313.html)只是为了方便大家去油管看看有趣的视频，上上facebook，或者是给搞科研和做外贸的朋友上google，gmail用，还有给nintendo switch玩家开个wifi热点作代理连连动物森友会，马车，马造，或者上任天堂eshop下个ns游戏啥的。
 
 但由于众所周知的原因，节点资源随时有可能会无法访问。
 
-为了方便大家不失联，不过了了新建了个分享长期可用TG直连代理的电报群，下面那个**按钮**就是入口（**蕃蔷状态下一键进群**）。
+为了方便大家不失联，不过了了新建了个分享长期可用TG直连代理的电报群，下面那个**链接**就是入口（**蕃蔷状态下一键进群**）。
 
  如有特殊情况，备用网址将会在下面这个群里第一时间发布。
 
