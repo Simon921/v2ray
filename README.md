@@ -13,13 +13,13 @@
 ## V2ray/SSR付费机场订阅节点测速分享推荐+专属优惠码
 
 
-|  **机场类型**  |  **测速**  |  **亮点**  |  **专属折扣优惠码**    |  **官网链接**  |
-|:-:|:-:|:-:|:-:|:-:|
-|  v2ray机场/SSR机场  |  暂无  | ⭐️免费试用<br>签到送流量<br>IPLC专线<br>⭐️定制客户端<br>免设置<br>一键蕃蔷<br>⭐️TG直连代理<br>稳定网飞渠道  | ⭐️7折优惠码<br>【mitao】<br>有效期-2021.3.10  |  [点击注册](https://www.butnono.com/go/ssr-iplc)  |
-|  v2ray机场  |  暂无  | ⭐️有试用<br>⭐️有游戏加速专线<br>⭐️免设置<br>定制客户端<br>一键蕃蔷  | ⭐️轻量套餐<br>优惠码【peace】<br>⭐️豪华、畅爽、无限套餐<br>优惠码【joy】<br>⭐️续费可用<br>有效期-2021.2.28  |  [点击注册](https://www.butnono.com/go/v2ray-game2)  |
-|  v2ray机场/ssr机场  |  暂无  | ⭐️有游戏加速专用节点<br>⭐️免设置<br>定制客户端<br>一键蕃蔷  | ⭐️所有套餐<br>8折优惠码<br>【newyear】<br>有效期-2021.2.19  |  [点击注册](https://www.butnono.com/go/v2game)  |
-|  v2ray机场/ssr机场  |  [大图](https://i.loli.net/2021/01/22/br8VCd6KDNOBi1a.png)  | ⭐️免费节点试用<br>签到送流量<br>⭐️IPLC/BGP<br>广港、广美节点  | ⭐️全场7折优惠码<br>【rocker-70】    |  [点击注册](https://www.butnono.com/go/v2iplc)  |
-|  SSR机场/v2ray机场  |  暂无  | ⭐️免费节点试用<br>⭐️免设置<br>定制客户端<br>一键蕃蔷<br>港台中日美专线  | ⭐️7折优惠码<br>【gsou2021】<br>有效期-2021.2.19  |  [点击注册](https://www.butnono.com/go/ssr-sp)  |
+| **机场类型** | **测速** | **亮点** | **专属折扣优惠码** | **官网链接** |
+|-|-|-|-|-|
+| v2ray机场/SSR机场 | 暂无 | ⭐️免费试用 签到送流量 IPLC专线 ⭐️定制客户端 免设置 一键蕃蔷 ⭐️TG直连代理 稳定网飞渠道 | ⭐️7折优惠码 【mitao】 有效期-2021.3.10 | [点击注册](https://www.butnono.com/go/ssr-iplc) |
+| v2ray机场 | 暂无 | ⭐️有试用 ⭐️有游戏加速专线 ⭐️免设置 定制客户端 一键蕃蔷 | ⭐️轻量套餐 优惠码【peace】 ⭐️豪华、畅爽、无限套餐 优惠码【joy】 ⭐️续费可用 有效期-2021.2.28 | [点击注册](https://www.butnono.com/go/v2ray-game2) |
+| v2ray机场/ssr机场 | 暂无 | ⭐️有游戏加速专用节点 ⭐️免设置 定制客户端 一键蕃蔷 | ⭐️所有套餐 8折优惠码 【newyear】 有效期-2021.2.19 | [点击注册](https://www.butnono.com/go/v2game) |
+| v2ray机场/ssr机场 | [大图](https://i.loli.net/2021/01/22/br8VCd6KDNOBi1a.png) | ⭐️免费节点试用 签到送流量 ⭐️IPLC/BGP 广港、广美节点 | ⭐️全场7折优惠码 【rocker-70】 | [点击注册](https://www.butnono.com/go/v2iplc) |
+| SSR机场/v2ray机场 | 暂无 | ⭐️免费节点试用 ⭐️免设置 定制客户端 一键蕃蔷 港台中日美专线 | ⭐️7折优惠码 【gsou2021】 有效期-2021.2.19 | [点击注册](https://www.butnono.com/go/ssr-sp) |
 
 ## SSR机场、V2ray节点可蕃蔷上哪些网站？
 
